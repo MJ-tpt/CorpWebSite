@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'm-tpt-corp-web'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A8229E520CA4BC4A9359753B0CEA489 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B45F40964CC4177B4C0BDDD32D15D11 }}
           package: .
