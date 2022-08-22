@@ -370,7 +370,7 @@
                             <div class="contact-info">
                                 <h4 class="footer-title">Contact Info</h4>
                                 <ul class="info">
-                                  <li><i class="fa fa-envelope"></i><a href="mailto:example@tekprotek.com">example@tekprotek.com</a></li>
+                                  <li><i class="fa fa-envelope"></i><a href="mailto:MJ@tekprotek.com">MJ@tekprotek.com</a></li>
                                   <li><i class="fa fa-phone"></i><a href="tel:12345678910">+1 234 567 8910</a></li>
                                   <!-- <li><i class="fa fa-map-marker"></i><span>Storey Ave San Francisco, CA 94129</span></li> -->
                                 </ul>
